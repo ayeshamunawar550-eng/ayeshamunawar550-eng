@@ -82,8 +82,8 @@ My goal is to build a career as a **Data Scientist**, combining my background in
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *Add your LinkedIn profile here*
-* 📧 Email: *Add your professional email here*
+* 💼 LinkedIn: *https://www.linkedin.com/in/ayesha-munawar-12950040a/*
+
 
 ---
 
