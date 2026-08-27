@@ -1,95 +1,89 @@
-# Hi, I'm Ayesha 👋
+<h1 align="center">Hi 👋, I'm Ayesha Munawar</h1>
+<h3 align="center">Aspiring Data Scientist | Machine Learning & Analytics Enthusiast</h3>
 
-### Aspiring Data Scientist | Data Analytics | Machine Learning
+<p align="center">
+IT professional transitioning into Data Science — I build predictive models, explore data for insights, and turn messy datasets into decisions. Currently open to Data Science / ML opportunities.
+</p>
 
-I am an **Information Technology professional transitioning into Data Science**, passionate about using data to discover insights, solve problems, and build practical machine learning solutions.
-
-I enjoy working across different areas of **Data Analytics, Machine Learning, Artificial Intelligence, and Data Visualization**, with hands-on experience in Python, statistical analysis, feature selection, predictive modeling, and data-driven problem solving.
-
----
-
-## 🧠 About Me
-
-* 🎓 Master's in Information Technology
-* 📊 Aspiring Data Scientist
-* 🤖 Interested in Data Science, Machine Learning & Artificial Intelligence
-* 🐍 Using Python for data analysis, visualization, and machine learning
-* 📈 Interested in Exploratory Data Analysis and predictive modeling
-* 🔍 Exploring feature selection and model optimization
-* 📊 Working with Power BI and Excel for data analysis and visualization
-* 💡 Interested in applying data-driven solutions to real-world problems
-* 🌱 Continuously learning and building practical Data Science projects
+<p align="center">
+<a href="https://www.linkedin.com/in/ayesha-munawar-12950040a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+### 🧠 About Me
 
-### Programming & Tools
-
-`Python` `SQL` `Git` `GitHub`
-
-### Data Science & Analytics
-
-`Pandas` `NumPy` `Matplotlib` `Exploratory Data Analysis` `Statistical Analysis`
-
-### Machine Learning
-
-`Scikit-learn` `Classification` `Feature Selection` `Model Evaluation` `Hyperparameter Tuning` `Predictive Modeling`
-
-### Data Visualization
-
-`Power BI` `Excel` `Matplotlib` `Data Visualization`
+- 🎓 Master's in Information Technology
+- 🔄 Transitioning from IT into Data Science
+- 🤖 Focused on Machine Learning, Predictive Modeling & Feature Selection
+- 🐍 Python-first: Pandas, NumPy, Scikit-learn, Matplotlib
+- 📊 Comfortable with Power BI and Excel for analysis & visualization
+- 🌱 Currently deepening my skills in Deep Learning and advanced ML
+- 💬 Ask me about feature selection techniques (MRMR, FCBF, LASSO, Relief, ANOVA)
+- 🎯 Goal: become a Data Scientist solving real-world problems with data
 
 ---
 
-## 🔬 Featured Projects
+### 🛠️ Tech Stack
 
-### ❤️ Heart Disease Prediction
+**Languages & Tools**
 
-A machine learning project focused on predictive modeling and feature selection for cardiovascular disease data.
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+</p>
 
-**Techniques:**
-Python • Pandas • Scikit-learn • Feature Selection • Classification • Model Evaluation
+**Data Science & ML**
 
-### 🎗️ Breast Cancer Classification
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white">
+</p>
 
-A machine learning project involving data preprocessing, feature selection, classification, and predictive modeling.
+**Visualization**
 
-**Techniques:**
-Python • Pandas • NumPy • Scikit-learn • Machine Learning
-
-### 🧪 Feature Selection & Machine Learning
-
-Exploring and comparing feature selection techniques to identify informative features and improve machine learning model performance.
-
-**Techniques:**
-MRMR • FCBF • LASSO • Relief • ANOVA • Feature Selection • Classification • Model Evaluation
-
----
-
-## 📚 Currently Learning
-
-* Data Science
-* Advanced Machine Learning
-* Deep Learning
-* Statistical Analysis
-* SQL & Data Management
-* Data Visualization
-* Feature Engineering
-* Model Optimization
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
+</p>
 
 ---
 
-## 🎯 Career Goal
+### 🔬 Featured Projects
 
-My goal is to build a career as a **Data Scientist**, combining my background in Information Technology with practical skills in **data analysis, machine learning, artificial intelligence, and data visualization** to develop meaningful, data-driven solutions across different domains.
+| Project | Description | Techniques |
+|---|---|---|
+| ❤️ **[Heart Disease Prediction](#)** | Predictive modeling for cardiovascular disease risk using patient data. | Python • Pandas • Scikit-learn • Feature Selection • Classification |
+| 🎗️ **[Breast Cancer Classification](#)** | End-to-end pipeline: preprocessing, feature selection, and classification. | Python • Pandas • NumPy • Scikit-learn |
+| 🧪 **[Feature Selection & ML](#)** | Comparative study of feature selection techniques for model performance. | MRMR • FCBF • LASSO • Relief • ANOVA |
+
+> Replace the `#` links above with the actual repo URLs for each project so visitors can click through.
 
 ---
 
-## 📫 Connect With Me
+### 📚 Currently Learning
 
-* 💼 LinkedIn: [Ayesha Munawar](https://www.linkedin.com/in/ayesha-munawar-12950040a/)
+`Deep Learning` `Advanced Machine Learning` `SQL & Data Management` `Feature Engineering` `Model Optimization`
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+### 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ayeshamunawar550-eng&show_icons=true&theme=default&hide_border=true" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshamunawar550-eng&hide_border=true" height="165">
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p>
+<a href="https://www.linkedin.com/in/ayesha-munawar-12950040a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+<p align="center"><i>⭐ Thanks for visiting my profile!</i></p>
