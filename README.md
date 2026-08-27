@@ -1,10 +1,10 @@
 # Hi, I'm Ayesha 👋
 
-### Aspiring Data Scientist | Machine Learning Enthusiast
+### Aspiring Data Scientist | Data Analytics | Machine Learning
 
-I am an **Information Technology professional transitioning toward Data Science**, with an interest in transforming data into meaningful insights and building practical machine learning solutions.
+I am an **Information Technology professional transitioning into Data Science**, passionate about using data to discover insights, solve problems, and build practical machine learning solutions.
 
-I enjoy working with data, developing predictive models, exploring feature selection techniques, and applying machine learning to real-world problems.
+I enjoy working across different areas of **Data Analytics, Machine Learning, Artificial Intelligence, and Data Visualization**, with hands-on experience in Python, statistical analysis, feature selection, predictive modeling, and data-driven problem solving.
 
 ---
 
@@ -12,31 +12,33 @@ I enjoy working with data, developing predictive models, exploring feature selec
 
 * 🎓 Master's in Information Technology
 * 📊 Aspiring Data Scientist
-* 🤖 Interested in Machine Learning & Artificial Intelligence
-* 🐍 Working with Python for data analysis and machine learning
-* 🏥 Interested in healthcare and predictive analytics
-* 📈 Exploring data visualization, feature selection, and model optimization
+* 🤖 Interested in Data Science, Machine Learning & Artificial Intelligence
+* 🐍 Using Python for data analysis, visualization, and machine learning
+* 📈 Interested in Exploratory Data Analysis and predictive modeling
+* 🔍 Exploring feature selection and model optimization
+* 📊 Working with Power BI and Excel for data analysis and visualization
+* 💡 Interested in applying data-driven solutions to real-world problems
 * 🌱 Continuously learning and building practical Data Science projects
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages & Tools**
+### Programming & Tools
 
 `Python` `SQL` `Git` `GitHub`
 
-**Data Science**
+### Data Science & Analytics
 
-`Pandas` `NumPy` `Matplotlib` `Scikit-learn`
+`Pandas` `NumPy` `Matplotlib` `Exploratory Data Analysis` `Statistical Analysis`
 
-**Machine Learning**
+### Machine Learning
 
-`Classification` `Feature Selection` `Model Evaluation` `Hyperparameter Tuning`
+`Scikit-learn` `Classification` `Feature Selection` `Model Evaluation` `Hyperparameter Tuning` `Predictive Modeling`
 
-**Data Analytics & Visualization**
+### Data Visualization
 
-`Power BI` `Excel` `Data Visualization` `Exploratory Data Analysis`
+`Power BI` `Excel` `Matplotlib` `Data Visualization`
 
 ---
 
@@ -44,21 +46,24 @@ I enjoy working with data, developing predictive models, exploring feature selec
 
 ### ❤️ Heart Disease Prediction
 
-Machine learning project focused on cardiovascular disease prediction using different classification algorithms and feature selection techniques.
+A machine learning project focused on predictive modeling and feature selection for cardiovascular disease data.
 
 **Techniques:**
-Python • Scikit-learn • Feature Selection • Classification • Model Evaluation
+Python • Pandas • Scikit-learn • Feature Selection • Classification • Model Evaluation
 
 ### 🎗️ Breast Cancer Classification
 
-Machine learning project for breast cancer classification using data preprocessing, feature selection, and predictive modeling.
+A machine learning project involving data preprocessing, feature selection, classification, and predictive modeling.
 
 **Techniques:**
 Python • Pandas • NumPy • Scikit-learn • Machine Learning
 
-### 🧪 Machine Learning & Feature Selection
+### 🧪 Feature Selection & Machine Learning
 
-Exploring feature selection methods such as **MRMR, FCBF, LASSO, Relief, and ANOVA** to identify informative features and improve machine learning models.
+Exploring and comparing feature selection techniques to identify informative features and improve machine learning model performance.
+
+**Techniques:**
+MRMR • FCBF • LASSO • Relief • ANOVA • Feature Selection • Classification • Model Evaluation
 
 ---
 
@@ -70,20 +75,20 @@ Exploring feature selection methods such as **MRMR, FCBF, LASSO, Relief, and ANO
 * Statistical Analysis
 * SQL & Data Management
 * Data Visualization
+* Feature Engineering
 * Model Optimization
 
 ---
 
 ## 🎯 Career Goal
 
-My goal is to build a career as a **Data Scientist**, combining my background in Information Technology with practical expertise in data analysis, machine learning, and AI to solve real-world problems.
+My goal is to build a career as a **Data Scientist**, combining my background in Information Technology with practical skills in **data analysis, machine learning, artificial intelligence, and data visualization** to develop meaningful, data-driven solutions across different domains.
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *https://www.linkedin.com/in/ayesha-munawar-12950040a/*
-
+* 💼 LinkedIn: [Ayesha Munawar](https://www.linkedin.com/in/ayesha-munawar-12950040a/)
 
 ---
 
